@@ -99,8 +99,6 @@ public class MyQueue<T> implements MyQueueInt {
                 result = result + myQueueArray[i] + "; " ;
             }
         }
-
-
         return result;
     }
 }
