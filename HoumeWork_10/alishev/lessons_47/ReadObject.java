@@ -1,7 +1,5 @@
 package lessons_47;
 
-import lessons_45.Person;
-
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
